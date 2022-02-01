@@ -8,7 +8,7 @@ body {
 .header--secondary {
     font-weight: 300;
     font-size: 50px;
-    color: #fff
+    color: rgb(184, 19, 19);
 }
 
 .header--sub-header {
